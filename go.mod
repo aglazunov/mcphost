@@ -1,4 +1,4 @@
-module github.com/mark3labs/mcphost
+module github.com/aglazunov/mcphost
 
 go 1.23.0
 
